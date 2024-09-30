@@ -1,5 +1,4 @@
-#![Uploading ezgif.com-video-to-gif-converter.gif…]()
- Parcel
+#Parcel
 This project is initialized with [Parcel](https://parceljs.org/). Follow is the quick guide for how to use.
 # Threetutorial
 This project is initialized with [Threejs](https://pro.ant.design). Follow is the quick guide for how to use.
